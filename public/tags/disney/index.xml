@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>disney on Josh Anderson Photography</title>
+    <link>http://example.org/tags/disney/</link>
+    <description>Recent content in disney on Josh Anderson Photography</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 May 2021 22:14:44 -0400</lastBuildDate><atom:link href="http://example.org/tags/disney/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disney World February 2020</title>
+      <link>http://example.org/disney-world-feb-2020/</link>
+      <pubDate>Sat, 29 May 2021 22:14:44 -0400</pubDate>
+      
+      <guid>http://example.org/disney-world-feb-2020/</guid>
+      <description> This is a blog post </description>
+    </item>
+    
+  </channel>
+</rss>
